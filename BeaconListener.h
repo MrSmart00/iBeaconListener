@@ -1,6 +1,5 @@
 //
 //  BeaconListener.h
-//  iBeaconExample
 //
 //  Created by 日野森寛也 on 8/4/14.
 //  Copyright (c) 2014 Hiroya Hinomori. All rights reserved.
